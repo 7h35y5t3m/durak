@@ -1,0 +1,317 @@
+[
+  {
+    "uuid": "c7b6f8a4-6c2a-4a6e-9f0b-8f6f7c1c9a01",
+    "icon_id": "g3028-7",
+    "suit": "spades",
+    "rank": "ace"
+  },
+  {
+    "uuid": "0b1e7f9d-0d3f-4c5b-9b66-1c3d52a9f1a2",
+    "icon_id": "g3033",
+    "suit": "spades",
+    "rank": "2"
+  },
+  {
+    "uuid": "a6a3f41e-6b2f-4e1e-9f9d-2e9a7b8d8f03",
+    "icon_id": "g3035-5",
+    "suit": "spades",
+    "rank": "3"
+  },
+  {
+    "uuid": "f2c1c6b7-4c47-4e1a-b3c5-3a6c97d6e804",
+    "icon_id": "g3079",
+    "suit": "spades",
+    "rank": "4"
+  },
+  {
+    "uuid": "5c6e8c94-7b3a-4a5f-8a91-9f2b9e8c5a05",
+    "icon_id": "g3088",
+    "suit": "spades",
+    "rank": "5"
+  },
+  {
+    "uuid": "8b7f3d65-8b5c-4c7a-9a74-6d8c5e2b1f06",
+    "icon_id": "g3062-9",
+    "suit": "spades",
+    "rank": "6"
+  },
+  {
+    "uuid": "2f7a1b9c-0c4e-4a6a-8d94-b6e9c7d3a807",
+    "icon_id": "g3071",
+    "suit": "spades",
+    "rank": "7"
+  },
+  {
+    "uuid": "9d6e3c1a-8f74-4b6a-bf5d-7a8c2e9b4f08",
+    "icon_id": "g3102",
+    "suit": "spades",
+    "rank": "8"
+  },
+  {
+    "uuid": "c8b3d7f9-5e1c-4a91-8e6f-0a7c6b9d1e09",
+    "icon_id": "g3089",
+    "suit": "spades",
+    "rank": "9"
+  },
+  {
+    "uuid": "4b7f2c8a-1a6d-4e5f-9c73-8e2d6f9b0a10",
+    "icon_id": "g3113",
+    "suit": "spades",
+    "rank": "10"
+  },
+  {
+    "uuid": "e6c7b9a2-5f6a-4d3c-8b9a-7f1c6e5d4a11",
+    "icon_id": "g3772",
+    "suit": "spades",
+    "rank": "jack"
+  },
+  {
+    "uuid": "7a9c5e2f-3d8b-4a6c-9e1f-bc7d8a6f5e12",
+    "icon_id": "g3687",
+    "suit": "spades",
+    "rank": "queen"
+  },
+  {
+    "uuid": "1e7d9f6c-8b5a-4c3e-9a7f-2d6b5e8c4f13",
+    "icon_id": "g3568",
+    "suit": "spades",
+    "rank": "king"
+  },
+
+  {
+    "uuid": "6f9a8b2d-4c7e-4f5a-9b8d-1e6c3a7f2b14",
+    "icon_id": "g3028",
+    "suit": "hearts",
+    "rank": "ace"
+  },
+  {
+    "uuid": "9c8e7f5a-1d3b-4a6c-8f9b-2e6a5d7c4b15",
+    "icon_id": "g3026-3",
+    "suit": "hearts",
+    "rank": "2"
+  },
+  {
+    "uuid": "3d7f2a8b-6e4c-4b9f-9a1d-5c8e6f7a2b16",
+    "icon_id": "g3035",
+    "suit": "hearts",
+    "rank": "3"
+  },
+  {
+    "uuid": "a9e6d7c4-1b5f-4a8d-9f2e-3c6b7a8e5d17",
+    "icon_id": "g3044-9",
+    "suit": "hearts",
+    "rank": "4"
+  },
+  {
+    "uuid": "8c6b5f7a-2e4d-4b9a-9f8c-1d3a7e6b5f18",
+    "icon_id": "g3053",
+    "suit": "hearts",
+    "rank": "5"
+  },
+  {
+    "uuid": "f5e6b2a9-7c4d-4e8f-9a3b-1c6d7a8b5f19",
+    "icon_id": "g3062-5",
+    "suit": "hearts",
+    "rank": "6"
+  },
+  {
+    "uuid": "c7b8a5e6-9f4d-4a3b-8e1c-6d2f7a9b5c20",
+    "icon_id": "g3071-5",
+    "suit": "hearts",
+    "rank": "7"
+  },
+  {
+    "uuid": "5a9e7c8b-2d6f-4b3a-8c1e-f7d6a5b9c421",
+    "icon_id": "g3087-0",
+    "suit": "hearts",
+    "rank": "8"
+  },
+  {
+    "uuid": "2a5b8f6d-7c4e-4a9b-9e1f-3d6c7b5a8f22",
+    "icon_id": "g3089-8",
+    "suit": "hearts",
+    "rank": "9"
+  },
+  {
+    "uuid": "8f7c6e5a-9b3d-4a1c-9e6b-2d7f8a5c4e23",
+    "icon_id": "g3113-5",
+    "suit": "hearts",
+    "rank": "10"
+  },
+  {
+    "uuid": "e7a6c5b9-4d3f-4b8a-9e1c-2f6d5a8b7c24",
+    "icon_id": "g3725",
+    "suit": "hearts",
+    "rank": "jack"
+  },
+  {
+    "uuid": "9c5a6b8e-7d4f-4a3c-8b1e-2f6a7d5c9b25",
+    "icon_id": "g3761-1",
+    "suit": "hearts",
+    "rank": "queen"
+  },
+  {
+    "uuid": "4a7e6d8b-9c5f-4a3e-8b1d-f2c6a7b5e926",
+    "icon_id": "g3914",
+    "suit": "hearts",
+    "rank": "king"
+  },
+
+  {
+    "uuid": "6b8a9e5f-4c7d-4b3a-9f1e-2c6d7a8b5f27",
+    "icon_id": "g3197",
+    "suit": "diamonds",
+    "rank": "ace"
+  },
+  {
+    "uuid": "8e6a5b7c-2f4d-4b9a-8c1e-3d6f7a9b5c28",
+    "icon_id": "g3026-1",
+    "suit": "diamonds",
+    "rank": "2"
+  },
+  {
+    "uuid": "a5c6f8b7-9e4d-4a3b-8c1f-2d7e6b9a5f29",
+    "icon_id": "g3042",
+    "suit": "diamonds",
+    "rank": "3"
+  },
+  {
+    "uuid": "7f8a6b5c-9e4d-4a3b-8c1f-2d6a7e5b9f30",
+    "icon_id": "g3044",
+    "suit": "diamonds",
+    "rank": "4"
+  },
+  {
+    "uuid": "b7a6f5e8-2d9c-4a3b-9f1e-6d7c8a5b4f31",
+    "icon_id": "g3053-3",
+    "suit": "diamonds",
+    "rank": "5"
+  },
+  {
+    "uuid": "c8a7b5f6-9d4e-4a3b-8c1f-2d6e7b5a9f32",
+    "icon_id": "g3015",
+    "suit": "diamonds",
+    "rank": "6"
+  },
+  {
+    "uuid": "9a5f6b8c-7d4e-4a3b-8c1f-2d6a7e5b9f33",
+    "icon_id": "g3092",
+    "suit": "diamonds",
+    "rank": "7"
+  },
+  {
+    "uuid": "e6b5c8a7-9f4d-4a3b-8c1e-2d6f7a5b9c34",
+    "icon_id": "g2996",
+    "suit": "diamonds",
+    "rank": "8"
+  },
+  {
+    "uuid": "5b7a8c6f-9d4e-4a3b-8c1f-2d6e7a5b9f35",
+    "icon_id": "g3089-86",
+    "suit": "diamonds",
+    "rank": "9"
+  },
+  {
+    "uuid": "7c6b5a8f-9e4d-4a3b-8c1f-2d6e7a9b5f36",
+    "icon_id": "g3106-7",
+    "suit": "diamonds",
+    "rank": "10"
+  },
+  {
+    "uuid": "a6b7c5f8-9d4e-4a3b-8c1f-2d6e7a5b9f37",
+    "icon_id": "g3581",
+    "suit": "diamonds",
+    "rank": "jack"
+  },
+  {
+    "uuid": "c5b7a8f6-9e4d-4a3b-8c1f-2d6e7a5b9f38",
+    "icon_id": "g3589",
+    "suit": "diamonds",
+    "rank": "queen"
+  },
+  {
+    "uuid": "f6a7b5c8-9e4d-4a3b-8c1f-2d6e7a5b9f39",
+    "icon_id": "g4750",
+    "suit": "diamonds",
+    "rank": "king"
+  },
+
+  {
+    "uuid": "5f6a7b8c-9d4e-4a3b-8c1f-2d6e7a5b9f40",
+    "icon_id": "g3035-04",
+    "suit": "clubs",
+    "rank": "ace"
+  },
+  {
+    "uuid": "8b7a6c5f-9e4d-4a3b-8c1f-2d6e7a5b9f41",
+    "icon_id": "g3026",
+    "suit": "clubs",
+    "rank": "2"
+  },
+  {
+    "uuid": "6a5b7c8f-9e4d-4a3b-8c1f-2d6e7a5b9f42",
+    "icon_id": "g3035-0",
+    "suit": "clubs",
+    "rank": "3"
+  },
+  {
+    "uuid": "7b6a5c8f-9e4d-4a3b-8c1f-2d6e7a5b9f43",
+    "icon_id": "g3044-2",
+    "suit": "clubs",
+    "rank": "4"
+  },
+  {
+    "uuid": "a7b6c5f8-9e4d-4a3b-8c1f-2d6e7a5b9f44",
+    "icon_id": "g3053-0",
+    "suit": "clubs",
+    "rank": "5"
+  },
+  {
+    "uuid": "c5b6a7f8-9e4d-4a3b-8c1f-2d6e7a5b9f45",
+    "icon_id": "g3062",
+    "suit": "clubs",
+    "rank": "6"
+  },
+  {
+    "uuid": "f8a6b5c7-9e4d-4a3b-8c1f-2d6e7a5b9f46",
+    "icon_id": "g3078",
+    "suit": "clubs",
+    "rank": "7"
+  },
+  {
+    "uuid": "6c5b7a8f-9e4d-4a3b-8c1f-2d6e7a5b9f47",
+    "icon_id": "g3087",
+    "suit": "clubs",
+    "rank": "8"
+  },
+  {
+    "uuid": "8a7b6c5f-9e4d-4a3b-8c1f-2d6e7a5b9f48",
+    "icon_id": "g3089-3",
+    "suit": "clubs",
+    "rank": "9"
+  },
+  {
+    "uuid": "5a7b6c8f-9e4d-4a3b-8c1f-2d6e7a5b9f49",
+    "icon_id": "g3106",
+    "suit": "clubs",
+    "rank": "10"
+  },
+  {
+    "uuid": "7c6a5b8f-9e4d-4a3b-8c1f-2d6e7a5b9f50",
+    "icon_id": "g9009",
+    "suit": "clubs",
+    "rank": "jack"
+  },
+  {
+    "uuid": "b7a6c5f8-9e4d-4a3b-8c1f-2d6e7a5b9f51",
+    "icon_id": "g3761",
+    "suit": "clubs",
+    "rank": "queen"
+  },
+  {
+    "uuid": "c8a7b6f5-9e4d-4a3b-8c1f-2d6e7a5b9f52",
+    "icon_id": "g3760",
+    "suit": "clubs",
+    "rank": "king"
+  }
+]

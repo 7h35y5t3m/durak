@@ -1,25 +1,52 @@
-//import '@/App.css'
+import { useState } from 'react'
+import cardsData from './data/cards.json'
+import { Card } from './Card'
 
 function App() {
+  const [cards] = useState(cardsData)
+
   return (
-    <div className='cards'>
-      <div className='card'>
-        <svg>
-          <use xlinkHref={`#icon-cards_g3028-7`} />
-        </svg>
+    <div className='playground'>
+      <div className='playground-user-section'>
+        <div className='cards'>
+          {cards.slice(0, 6).map((card) => (
+            <Card
+              key={card.uuid}
+              isOwner={false}
+              card={card}
+            />
+          ))}
+        </div>
       </div>
-      <div className='card'>
-        <svg>
-          <use xlinkHref={`#icon-cards_g3088`} />
-        </svg>
-      </div>
-      <div className='card'>
-        <svg>
-          <use xlinkHref={`#icon-cards_g3062-9`} />
-        </svg>
+      <div className='playground-gaming-section'></div>
+      <div className='playground-user-section'>
+        <div className='cards'>
+          {cards.slice(0, 6).map((card) => (
+            <Card
+              key={card.uuid}
+              isOwner={true}
+              card={card}
+            />
+          ))}
+        </div>
       </div>
     </div>
   )
 }
+
+/* 
+      <div className='cards'>
+        {cards.map((card) => (
+          <div
+            className='card'
+            key={card.uuid}
+          >
+            <svg>
+              <use xlinkHref={`#icon-cards_${card.icon_id}`} />
+            </svg>
+          </div>
+        ))}
+      </div>
+      */
 
 export default App

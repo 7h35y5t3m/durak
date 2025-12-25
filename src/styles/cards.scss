@@ -1,0 +1,40 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 125px;
+  height: 185px;
+  transition: all 0.3s;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.card:not(.card--owner) {
+  background-image: url('card-back-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  border: 4px solid white;
+}
+
+.card--owner {
+  cursor: pointer;
+}
+
+.card--owner:hover {
+  transform: rotate(3deg) translateY(-6px);
+  transition: all 0.3s;
+}
+
+.card svg {
+  width: 360px;
+  height: 542px;
+  transform: scale(0.34);
+  transform-origin: top left;
+}

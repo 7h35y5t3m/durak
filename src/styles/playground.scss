@@ -1,0 +1,23 @@
+.playground {
+  width: 100%;
+  height: 100vh;
+
+  .playground-user-section {
+    width: 100%;
+    height: 200px;
+    background-image: url('playground-user-section-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .playground-gaming-section {
+    width: 100%;
+    height: calc(100vh - 200px * 2);
+    background-image: url('playground-gaming-section-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 3px solid #6f4900;
+    border-bottom: 3px solid #6f4900;
+    box-sizing: border-box;
+  }
+}
